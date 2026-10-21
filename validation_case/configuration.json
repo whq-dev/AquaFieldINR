@@ -1,0 +1,1 @@
+{"joint_steps": 2, "refine_steps": 1, "starts": 1, "validation_draws": 3, "check_every": 2, "batch_groups": 4, "threads": 1}
