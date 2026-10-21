@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this software using the metadata below."
+type: software
+title: AquaFieldINR
+version: 2.1.3
+date-released: 2026-10-21
+license: BSD-3-Clause
+authors:
+  - family-names: Wang
+    given-names: Hongqing
+    affiliation: "Center for Sensor Technology of Environment and Health, School of Environment, Tsinghua University, Beijing 100084, China"
+  - family-names: Wang
+    given-names: Qizhang
+    affiliation: "Center for Sensor Technology of Environment and Health, School of Environment, Tsinghua University, Beijing 100084, China"
+  - family-names: He
+    given-names: Miao
+    affiliation: "Center for Sensor Technology of Environment and Health, School of Environment, Tsinghua University, Beijing 100084, China"
+  - family-names: Zhou
+    given-names: Xiaohong
+    affiliation: "Center for Sensor Technology of Environment and Health, School of Environment, Tsinghua University, Beijing 100084, China"

@@ -1,0 +1,21 @@
+{
+  "backend": "exact_active",
+  "max_active_dimension": 6000,
+  "shared_rank": 2,
+  "optical_rank": 1,
+  "joint_steps": 4000,
+  "refine_steps": 1000,
+  "starts": 3,
+  "learning_rate": 0.001,
+  "draws_per_step": 2,
+  "validation_draws": 32,
+  "check_every": 100,
+  "relative_tolerance": 0.0001,
+  "patience": 5,
+  "batch_groups": 16,
+  "alpha_lambda": 0.001,
+  "alpha_gamma": 0.001,
+  "alpha2": 0.0001,
+  "seed": 2021,
+  "threads": 4
+}

@@ -1,0 +1,5 @@
+include README.md LICENSE configuration.json requirements.txt requirements-tested.txt run_validation.py
+recursive-include validation_case *.json *.csv
+recursive-include tests *.py
+recursive-include preprocessing *.py *.md *.txt LICENSE
+include CITATION.cff

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.env
+.env.*
+.DS_Store
+results/
+validation_output*/
+validation_cuda*/
